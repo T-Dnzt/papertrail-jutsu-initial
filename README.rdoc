@@ -1,0 +1,2 @@
+A simple Rails 4 project showing how to use PaperTrail. 
+Initial stage to start the guide.

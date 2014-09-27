@@ -1,0 +1,42 @@
+body { 
+  padding-top: 51px; 
+}
+
+.navbar-text {
+  float: right;
+}
+
+.fr {
+  float: right;
+}
+
+.mt {
+  margin-top: 20px;
+}
+
+.diff {
+  p {
+    padding: 5px;
+  }
+}
+
+.notice {
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+textarea.form-control.document-text-area {
+  height: 300px;
+}
+
+.samurails-popup {
+  width:30%; 
+  height: 300px; 
+  position: fixed; 
+  top: 50%; 
+  margin-top: -150px; 
+  left: 50%; 
+  margin-left: -15%;
+  display: none;
+}
